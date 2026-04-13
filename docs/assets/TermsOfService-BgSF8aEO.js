@@ -1,4 +1,4 @@
-import{_ as u,c as o,a as l,b as t,w as i,V as n,o as a,d as r,e as c,f as p,g as m,F as f,r as b,t as _,h as y,i as x,j as g}from"./index-C2BqhRUw.js";const V={class:"page-hero"},v={class:"text-h6 font-weight-bold mb-4 pb-2",style:{"border-bottom":"2px solid #E3F2FD",color:"#0277BD"}},h=["innerHTML"],w={class:"text-center"},B={__name:"TermsOfService",setup(L){const d=[{title:"第1条（サービスの内容）",content:`
+import{_ as u,c as o,a as l,b as t,w as i,V as n,o as a,d as r,e as c,f as p,g as m,F as f,r as b,t as _,h as y,i as x,j as g}from"./index-BfhvJWKr.js";const V={class:"page-hero"},v={class:"text-h6 font-weight-bold mb-4 pb-2",style:{"border-bottom":"2px solid #E3F2FD",color:"#0277BD"}},h=["innerHTML"],w={class:"text-center"},B={__name:"TermsOfService",setup(L){const d=[{title:"第1条（サービスの内容）",content:`
       <p>本アプリは、ユーザーが薬の服薬スケジュールを管理・記録し、リマインダー通知を受け取るための個人用ツールです。本アプリは医療行為・医療アドバイスを提供するものではありません。薬の用量・用法については、必ず医師・薬剤師の指示に従ってください。</p>
     `},{title:"第2条（利用資格）",content:`
       <p>本アプリはiOS端末でご利用いただけます。16歳未満の方が利用する場合は、保護者の同意が必要です。本アプリの利用には、対応デバイスおよびインターネット接続が必要な場合があります。</p>
