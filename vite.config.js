@@ -7,4 +7,7 @@ export default defineConfig({
     vue(),
     vuetify({ autoImport: true }),
   ],
+  build: {
+    outDir: 'docs',
+  },
 })

@@ -3,6 +3,8 @@ node_modules/
 
 # Build output
 dist/
+# docs/ は GitHub Pages 用のため追跡対象（コメントアウト）
+# docs/
 
 # Local env files
 .env
