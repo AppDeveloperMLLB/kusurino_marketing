@@ -222,10 +222,11 @@ import { ref, onMounted, onUnmounted } from 'vue'
 
 // ---- スクリーンショット設定 ----
 // public/screenshots/ に画像を追加した場合はここに追記してください
+const base = import.meta.env.BASE_URL
 const screenshots = [
-  { src: '/screenshots/screenshot-1.png', label: 'ホーム画面' },
-  { src: '/screenshots/screenshot-2.png', label: 'カレンダー' },
-  { src: '/screenshots/screenshot-3.png', label: '薬の登録' },
+  { src: `${base}screenshots/screenshot-1.png`, label: 'ホーム画面' },
+  { src: `${base}screenshots/screenshot-2.png`, label: 'カレンダー' },
+  { src: `${base}screenshots/screenshot-3.png`, label: '薬の登録' },
 ]
 
 const currentScreenshot = ref(0)

@@ -1,4 +1,4 @@
-import{_ as u,c as s,a as e,b as t,w as i,V as n,o as a,d as r,e as p,f as c,g as m,F as y,r as b,t as _,h as f,i as g,j as x}from"./index-BfhvJWKr.js";const V={class:"page-hero"},h={class:"text-h6 font-weight-bold mb-4 pb-2",style:{"border-bottom":"2px solid #E3F2FD",color:"#0277BD"}},v=["innerHTML"],L={class:"text-center"},w={__name:"PrivacyPolicy",setup(B){const d=[{title:"第1条（収集する情報）",content:`
+import{_ as u,c as s,a as e,b as t,w as i,V as n,o as a,d as r,e as p,f as c,g as m,F as y,r as b,t as _,h as f,i as g,j as x}from"./index--yTJdGoQ.js";const V={class:"page-hero"},h={class:"text-h6 font-weight-bold mb-4 pb-2",style:{"border-bottom":"2px solid #E3F2FD",color:"#0277BD"}},v=["innerHTML"],L={class:"text-center"},w={__name:"PrivacyPolicy",setup(B){const d=[{title:"第1条（収集する情報）",content:`
       <p>本アプリは、以下の情報を収集することがあります。</p>
       <ul>
         <li>氏名・メールアドレス等のアカウント情報（任意登録の場合）</li>
